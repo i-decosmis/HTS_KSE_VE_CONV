@@ -50,3 +50,13 @@ In the Photoshop files, each expansion is organized by category (e.g., `Challeng
 **Q: Why did you only move the label on the `Sorcerer Challenge` card and not on all the other cards to keep them consistent?**
 
 A: I prefer the label to stay at that precise, consistent height across all cards, because I like it. For most cards, this position works perfectly without obscuring important details. However, on the `Sorcerer Challenge` card, the label would cover part of the name, so I adjusted the height slightly for this card only to ensure the name remains visible.
+
+**Q: What settings should I use to print cards on the [Make Playing Cards](https://www.makeplayingcards.com/) website?**
+
+A: I’ll be placing the order soon, and these are the settings I’ll use:
+* Card Stock: M29 (from this [post](https://www.reddit.com/r/HereToSlay/comments/w7u6fc/does_anyone_know_what_type_of_cardstock_the_cards/)).
+* Print Type: Full Color Print.
+* Finish: MPC card finish (from this [post](https://www.reddit.com/r/mpcproxies/comments/rycpki/mpc_card_stock_options_a_review/)).
+* Other options up to your preference.
+
+As soon as I receive the physical cards, I'll update with my feedback.

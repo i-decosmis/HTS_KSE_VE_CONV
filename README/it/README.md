@@ -49,3 +49,13 @@ Nei file di Photoshop, ogni espansione è organizzata per categoria (es. `Challe
 **D: Perché hai spostato l’etichetta solo sulla carta `Sfida dello Stregone` e non su tutte le altre per renderle uniformi?**
 
 R: Preferisco che l’etichetta rimanga alla stessa altezza precisa su tutte le carte, perché mi piace così. Su quasi tutte le carte, questa posizione funziona perfettamente senza coprire dettagli importanti. Tuttavia, sulla carta `Sfida dello Stregone`, l’etichetta coprirebbe parte del nome, quindi ho regolato leggermente l’altezza solo per questa carta, per assicurare che il nome rimanga visibile.
+
+**D: Quale impostazioni usare per stampare le carte sul sito [Make Playing Cards](https://www.makeplayingcards.com/)?**
+
+R: Prossimamente farò il l'ordine e le impostazioni che userò sono queste:
+* Card Stock: M29 (Da questo [post](https://www.reddit.com/r/HereToSlay/comments/w7u6fc/does_anyone_know_what_type_of_cardstock_the_cards/)).
+* Print Type: Full Color Print.
+* Finish: MPC card finish (Da questo [post](https://www.reddit.com/r/mpcproxies/comments/rycpki/mpc_card_stock_options_a_review/)).
+* Altre opzioni a vostra decisione.
+
+Appena riceverò le carte fisiche aggiornerò con le mie considerazioni.
