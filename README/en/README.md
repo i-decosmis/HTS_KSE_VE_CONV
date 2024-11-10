@@ -1,5 +1,8 @@
 ## Download 📥
 You can [download](https://github.com/i-decosmis/HTS_KSE_VE_CONV/archive/refs/heads/main.zip) the zip file or clone the repository.
+* Extract the folder from the downloaded zip.
+* The folders containing the images and the compressed PSD file are `Poker Size` and `Tarot Size`.
+* The `Open Sans and Patua One` folder contains fonts needed to open the PSD project; everything is explained below.
 
 ## What's Included 🧐
 * **PNG files** for each expansion (KSE, VE, CONV), divided by language (Italian and English).
