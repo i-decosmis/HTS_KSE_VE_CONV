@@ -12,7 +12,7 @@ I file sono organizzati in due cartelle principali:
 * **Formato Poker**
 * **Formato Tarocco**
 
-Ogni cartella contiene sia i file PSD che PNG, organizzati per tipo di carta e includendo i retro delle carte.
+Ogni cartella contiene sia i file PSD (compressed in a 7z archive) che PNG, organizzati per tipo di carta e includendo i retro delle carte.
 
 ### Organizzazione dei PNG 🖼️
 Tutti i file PNG sono pronti per essere caricati sul sito [Make Playing Cards](https://www.makeplayingcards.com/), con i seguenti dettagli:
@@ -31,6 +31,8 @@ Le carte sono organizzate per categoria (es. `Sfide`), poi per lingua e per espa
 ## Dettagli dei File PSD 📸
 **REQUISITI**:
 * Installare i font presenti nella cartella `Open Sans and Patua One`. Nel caso di `Open Sans` consiglio di installare i due file ttf presenti nella cartella `Open_Sans` e ignorare la cartella `static`.
+
+Estrai il file PSD con cui vuoi lavorare dall'archivio 7z e aprilo.
 
 Nei file di Photoshop, ogni espansione è organizzata per categoria (es. `Challenges`) ed etichettata per espansione (es. `KSE`). Per ogni **cartella di ogni carta** nel file PSD, troverai i seguenti livelli:
 * **Livello KSE/VE/CONV**: Un livello con l’etichetta creata per ogni espansione. (Per la carta `Sfida dello Stregone`, l’etichetta è stata leggermente abbassata per evitare di coprire il nome della carta).

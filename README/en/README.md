@@ -12,7 +12,7 @@ The files are organized into two main folders:
 * **Poker Size**
 * **Tarot Size**
 
-Each folder contains both PSD and PNG files, organized by card type and including card backs.
+Each folder contains both PSD *comp and PNG files, organized by card type and including card backs.
 
 ### PNG Organization 🖼️
 All PNG files are ready for upload to the [Make Playing Cards](https://www.makeplayingcards.com/) site, with details as follows:
@@ -31,6 +31,8 @@ Cards are organized by category (e.g., `Challenges`) and then by language and ex
 ## PSD File Details 📸
 **REQUIREMENTS**:
 * Install the fonts found in the `Open Sans and Patua One` folder. For `Open Sans`, I recommend installing the two ttf files in the `Open_Sans` folder and ignoring the `static` folder.
+
+Unzip the PSD file you want to work on from the 7z archive, then open it.
 
 In the Photoshop files, each expansion is organized by category (e.g., `Challenges`) and labeled by expansion (e.g., `KSE`). For each **card folder** in the PSD file, you’ll find the following layers:
 * **KSE/VE/CONV Layer**: A label layer created for each expansion. (For the card `Sorcerer Challenge`, the label was slightly adjusted to avoid covering the card name).
