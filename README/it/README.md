@@ -1,5 +1,5 @@
 ## Download 📥
-Puoi [scaricare](https://github.com/i-decosmis/HTS_KSE_VE/archive/refs/heads/main.zip) il file zip o clonare la repository.
+Puoi [scaricare](https://github.com/i-decosmis/HTS_KSE_VE_CONV/archive/refs/heads/main.zip) il file zip o clonare la repository.
 
 ## Contenuto 🧐
 * **File PNG** per ogni espansione (KSE, VE, CONV), suddivisi per lingua (Italiano e Inglese).

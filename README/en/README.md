@@ -1,5 +1,5 @@
 ## Download 📥
-You can [download](https://github.com/i-decosmis/HTS_KSE_VE/archive/refs/heads/main.zip) the zip file or clone the repository.
+You can [download](https://github.com/i-decosmis/HTS_KSE_VE_CONV/archive/refs/heads/main.zip) the zip file or clone the repository.
 
 ## What's Included 🧐
 * **PNG files** for each expansion (KSE, VE, CONV), divided by language (Italian and English).
