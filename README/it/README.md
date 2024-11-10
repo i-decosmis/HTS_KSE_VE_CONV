@@ -23,10 +23,10 @@ Tutti i file PNG sono pronti per essere caricati sul sito [Make Playing Cards](h
 * [Formato Tarocco](https://www.makeplayingcards.com/design/design-your-own-tarot-cards.html)
 
 Le carte sono organizzate per categoria (es. `Sfide`), poi per lingua e per espansione. Ogni espansione include due versioni:
-* **Con Etichetta**: Etichette personalizzate create per distinguere le carte per categoria, come ad esempio:
+* **Con Etichetta**: Etichette personalizzate create per distinguere le carte per categoria, come ad esempio:<br />
   <img src="../../Poker Size\Heroes\ENG\KSE\With Label\Renovern.png" alt="Logo" width="350">
 
-* **Senza Etichetta**: Carte standard senza etichette personalizzate, per esempio:
+* **Senza Etichetta**: Carte standard senza etichette personalizzate, per esempio:<br />
   <img src="../../Poker Size\Heroes\ENG\KSE\Without Label\Renovern.png" alt="Logo" width="350">
 
 > Nota: Per la carta `L'Arciere Ritmico`, ho scelto di mantenere l'etichetta originale, quindi questa carta appare con l'etichetta in tutte le versioni.

@@ -23,10 +23,11 @@ All PNG files are ready for upload to the [Make Playing Cards](https://www.makep
 * [Tarot Size](https://www.makeplayingcards.com/design/design-your-own-tarot-cards.html)
 
 Cards are organized by category (e.g., `Challenges`) and then by language and expansion. Each expansion includes two versions:
-* **With Label**: Custom labels created to distinguish cards by category, like:
+
+* **With Label**: Custom labels created to distinguish cards by category, like:<br />
   <img src="../../Poker Size\Heroes\ENG\KSE\With Label\Renovern.png" alt="Logo" width="350">
 
-* **Without Label**: Standard cards without custom labels, for example:
+* **Without Label**: Standard cards without custom labels, for example:<br />
   <img src="../../Poker Size\Heroes\ENG\KSE\Without Label\Renovern.png" alt="Logo" width="350">
 
 > Note: For `The Rhythmic Archer` card, I chose to keep the original label intact, so this card appears with a label in all versions.
