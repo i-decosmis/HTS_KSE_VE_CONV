@@ -4,6 +4,9 @@ You can [download](https://github.com/i-decosmis/HTS_KSE_VE_CONV/archive/refs/he
 * The folders containing the images and the compressed PSD file are `Poker Size` and `Tarot Size`.
 * The `Open Sans and Patua One` folder contains fonts needed to open the PSD project; everything is explained below.
 
+## Video Tutorial
+I've uploaded a video tutorial that explains the steps for translating a card: [Video Tutorial](https://www.youtube.com/watch?v=QSjCtiTquEM)
+
 ## What's Included 🧐
 * **PNG files** for each expansion (KSE, VE, CONV), divided by language (Italian and English).
 * **PSD files** for both poker- and tarot-sized cards, prepared with the Make Playing Cards (MPC) template.
