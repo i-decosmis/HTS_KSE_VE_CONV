@@ -11,12 +11,11 @@ Questo repository contiene le scansioni delle espansioni del gioco **Here to Sla
 - [English version](README/en/README.md)
 - [Versione italiana](README/it/README.md)
 
+## Future Work 🔮
+* Create and host a website to directly translate and download a card.
 
-## Copyright and Usage Notes 💼
-This project contains materials derived from the **Here to Slay** game, owned by **Unstable Games**. All rights to these contents belong to **Unstable Games**. This material is distributed for informational purposes only, with no intent for profit. Any commercial use of these contents is prohibited.
-
-## Note sul Copyright e Utilizzo 💼
-Questo progetto contiene materiali derivati dal gioco **Here to Slay** di proprietà di **Unstable Games**. Tutti i diritti su questi contenuti appartengono a **Unstable Games**. Il presente materiale è distribuito solo a scopo informativo, senza alcun intento di lucro. Qualsiasi uso commerciale di questi contenuti è vietato.
+## Lavori Futuri 🔮
+* Creare e mettere online un sito web per tradurre e scaricare direttamente una carta.
 
 ## Credits ©️
 
