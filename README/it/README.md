@@ -62,7 +62,8 @@ Rispetto all’originale, gli angoli delle carte mostrano un raggio di curvatura
 
 Ecco alcune cose che considererei di modificare:
 - Invece di utilizzare M29, penso che una finitura M30 o M31 offrirebbe una texture più simile alle carte originali.
-- Aggiornerò il mio template per il retro della carta del Party Leader per regolare i margini.
+
+I margini per il retro delle carte dei Party Leader sono stati corretti nel repository, garantendo che le stampe avranno gli stessi margini degli originali.
 
 I colori delle varie immagini sono vivaci e la qualità di stampa è precisa, quindi il risultato complessivo è piuttosto buono.
 
@@ -81,6 +82,7 @@ I colori delle varie immagini sono vivaci e la qualità di stampa è precisa, qu
 
 - **Retro Party Leader**:
   <img src="../../Photos(ignore)/LeaderBack.jpg" alt="Logo" width="350">
+  I margini per il retro delle carte dei Party Leader sono stati corretti nel repository, garantendo che le stampe avranno gli stessi margini degli originali.
 
 - **Fronte Party Leader**:
   <img src="../../Photos(ignore)/LeaderFront.jpg" alt="Logo" width="350">

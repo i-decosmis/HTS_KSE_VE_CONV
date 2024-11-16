@@ -60,9 +60,10 @@ I just received the cards I ordered from the MakePlayingCards site, and I’ve i
 
 Compared to the original, the edges of the card's corners display a larger curvature radius, making the corners less sharp and more rounded.
 
-Here are a few things I’d consider changing:
+Here is the thing I’d consider changing:
 * Instead of using M29, I think an M30 or M31 finish would provide a texture more similar to the original cards.
-* I’ll update my template for the Party Leader card back to adjust the margins.
+
+The margins for the Party Leaders' card back have been fixed in the repository, ensuring that the prints will have the same margins as the originals
 
 The colors of the various images are vibrant, and the print quality is precise, so the overall result is pretty good.
 
@@ -84,6 +85,7 @@ For the slight color difference on the back: if your group includes particularly
 
 * **Party Leader Front**:
   <img src="../../Photos(ignore)/LeaderFront.jpg" alt="Logo" width="350">
+  The margins for the Party Leaders' card back have been fixed in the repository, ensuring that the prints will have the same margins as the originals
 
 * **Monster Back**:
   <img src="../../Photos(ignore)/MonsterBack.jpg" alt="Logo" width="350">
