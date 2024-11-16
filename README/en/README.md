@@ -81,16 +81,20 @@ For the slight color difference on the back: if your group includes particularly
   <img src="../../Photos(ignore)/PokerFront.jpg" alt="Logo" width="350">
 
 * **Party Leader Back**:
+
   <img src="../../Photos(ignore)/LeaderBack.jpg" alt="Logo" width="350">
 
 * **Party Leader Front**:
+
   <img src="../../Photos(ignore)/LeaderFront.jpg" alt="Logo" width="350">
   The margins for the Party Leaders' card back have been fixed in the repository, ensuring that the prints will have the same margins as the originals
 
 * **Monster Back**:
+
   <img src="../../Photos(ignore)/MonsterBack.jpg" alt="Logo" width="350">
 
 * **Monster Front**:
+
   <img src="../../Photos(ignore)/MonsterFront.jpg" alt="Logo" width="350">
 
 

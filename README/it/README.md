@@ -81,16 +81,20 @@ I colori delle varie immagini sono vivaci e la qualità di stampa è precisa, qu
   <img src="../../Photos(ignore)/PokerFront.jpg" alt="Logo" width="350">
 
 - **Retro Party Leader**:
+
   <img src="../../Photos(ignore)/LeaderBack.jpg" alt="Logo" width="350">
   I margini per il retro delle carte dei Party Leader sono stati corretti nel repository, garantendo che le stampe avranno gli stessi margini degli originali.
 
 - **Fronte Party Leader**:
+
   <img src="../../Photos(ignore)/LeaderFront.jpg" alt="Logo" width="350">
 
 - **Retro Mostro**:
+
   <img src="../../Photos(ignore)/MonsterBack.jpg" alt="Logo" width="350">
 
 - **Fronte Mostro**:
+
   <img src="../../Photos(ignore)/MonsterFront.jpg" alt="Logo" width="350">
 
 ## FAQ ❓
