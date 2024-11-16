@@ -83,6 +83,7 @@ I colori delle varie immagini sono vivaci e la qualità di stampa è precisa, qu
 - **Retro Party Leader**:
 
   <img src="../../Photos(ignore)/LeaderBack.jpg" alt="Logo" width="350">
+  
   I margini per il retro delle carte dei Party Leader sono stati corretti nel repository, garantendo che le stampe avranno gli stessi margini degli originali.
 
 - **Fronte Party Leader**:
