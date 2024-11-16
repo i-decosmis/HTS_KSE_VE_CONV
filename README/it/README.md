@@ -48,6 +48,49 @@ Nei file di Photoshop, ogni espansione è organizzata per categoria (es. `Challe
 * **Livello Senza Nome (solo per Mostri e Leader di Squadra)**: Una versione della carta con il nome rimosso.
 * **Livello Inglese**: La carta base in inglese.
 
+## Risultati 📊
+
+**Impostazioni che ho utilizzato per stampare le carte sul sito MakePlayingCards:**
+- **Tipo di Carta:** M29 (come indicato in [questo post](#)).
+- **Tipo di Stampa:** Stampa a Colori Completa.
+- **Finitura:** Finitura carte MPC (come indicato in [questo post](#)).
+- **Altre opzioni:** a tua preferenza.
+
+Ho appena ricevuto le carte che ho ordinato dal sito MakePlayingCards, e ho incluso alcune foto qui sotto.
+
+Rispetto all’originale, gli angoli delle carte mostrano un raggio di curvatura più grande, rendendo gli angoli meno netti e più arrotondati.
+
+Ecco alcune cose che considererei di modificare:
+- Invece di utilizzare M29, penso che una finitura M30 o M31 offrirebbe una texture più simile alle carte originali.
+- Aggiornerò il mio template per il retro della carta del Party Leader per regolare i margini.
+
+I colori delle varie immagini sono vivaci e la qualità di stampa è precisa, quindi il risultato complessivo è piuttosto buono.
+
+**Per la leggera differenza di colore sul retro**: se il tuo gruppo include giocatori particolarmente competitivi e qualcuno ha bisogno di pescare una carta da un altro giocatore, puoi impilare le carte una sopra l’altra e far scegliere chiedendo un numero. Questo impedisce a chiunque di sfruttare la differenza di colore per selezionare una carta specifica.
+
+---
+
+**Foto**:
+- **Retro Poker**:
+
+  <img src="../../Photos(ignore)/PokerBack.jpg" alt="Logo" width="350">
+
+- **Fronte Poker**:
+
+  <img src="../../Photos(ignore)/PokerFront.jpg" alt="Logo" width="350">
+
+- **Retro Party Leader**:
+  <img src="../../Photos(ignore)/LeaderBack.jpg" alt="Logo" width="350">
+
+- **Fronte Party Leader**:
+  <img src="../../Photos(ignore)/LeaderFront.jpg" alt="Logo" width="350">
+
+- **Retro Mostro**:
+  <img src="../../Photos(ignore)/MonsterBack.jpg" alt="Logo" width="350">
+
+- **Fronte Mostro**:
+  <img src="../../Photos(ignore)/MonsterFront.jpg" alt="Logo" width="350">
+
 ## FAQ ❓
 **D: Perché hai spostato l’etichetta solo sulla carta `Sfida dello Stregone` e non su tutte le altre per renderle uniformi?**
 
@@ -55,10 +98,11 @@ R: Preferisco che l’etichetta rimanga alla stessa altezza precisa su tutte le 
 
 **D: Quale impostazioni usare per stampare le carte sul sito [Make Playing Cards](https://www.makeplayingcards.com/)?**
 
-R: Prossimamente farò il l'ordine e le impostazioni che userò sono queste:
-* Card Stock: M29 (Da questo [post](https://www.reddit.com/r/HereToSlay/comments/w7u6fc/does_anyone_know_what_type_of_cardstock_the_cards/)).
-* Print Type: Full Color Print.
-* Finish: MPC card finish (Da questo [post](https://www.reddit.com/r/mpcproxies/comments/rycpki/mpc_card_stock_options_a_review/)).
-* Altre opzioni a vostra decisione.
+R: Ho utilizzato le seguenti impostazioni:  
+- **Tipo di Carta:** M29 (da questo [post](https://www.reddit.com/r/HereToSlay/comments/w7u6fc/does_anyone_know_what_type_of_cardstock_the_cards/)).  
+- **Tipo di Stampa:** Stampa a Colori Completa.  
+- **Finitura:** Finitura carte MPC (da questo [post](https://www.reddit.com/r/mpcproxies/comments/rycpki/mpc_card_stock_options_a_review/)).  
+- **Altre opzioni:** a tua preferenza.  
 
-Appena riceverò le carte fisiche aggiornerò con le mie considerazioni.
+**Consiglio:**  
+- Invece di utilizzare M29, penso che una finitura M30 o M31 offrirebbe una texture più simile alle carte originali.  

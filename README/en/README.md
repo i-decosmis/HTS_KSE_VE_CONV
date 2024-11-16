@@ -49,6 +49,49 @@ In the Photoshop files, each expansion is organized by category (e.g., `Challeng
 * **No Name Layer (for Monsters and Party Leaders only)**: A version of the card with the name removed.
 * **English Layer**: The base card in English.
 
+## Results 📊
+**Settings that I have used to print cards on the MakePlayingCards site**:
+* Card Stock: M29 (from this post).
+* Print Type: Full Color Print.
+* Finish: MPC card finish (from this post).
+* Other options up to your preference.
+
+I just received the cards I ordered from the MakePlayingCards site, and I’ve included photos below.
+
+Compared to the original, the edges of the card's corners display a larger curvature radius, making the corners less sharp and more rounded.
+
+Here are a few things I’d consider changing:
+* Instead of using M29, I think an M30 or M31 finish would provide a texture more similar to the original cards.
+* I’ll update my template for the Party Leader card back to adjust the margins.
+
+The colors of the various images are vibrant, and the print quality is precise, so the overall result is pretty good.
+
+For the slight color difference on the back: if your group includes particularly competitive players, and someone needs to draw a card from another player, you can stack the cards on top of each other and have them choose by asking for a number. This prevents anyone from exploiting the color difference to select a specific card.
+
+---
+
+**Photos**:
+* **Poker Back**:
+
+  <img src="../../Photos(ignore)/PokerBack.jpg" alt="Logo" width="350">
+
+* **Poker Front**:
+
+  <img src="../../Photos(ignore)/PokerFront.jpg" alt="Logo" width="350">
+
+* **Party Leader Back**:
+  <img src="../../Photos(ignore)/LeaderBack.jpg" alt="Logo" width="350">
+
+* **Party Leader Front**:
+  <img src="../../Photos(ignore)/LeaderFront.jpg" alt="Logo" width="350">
+
+* **Monster Back**:
+  <img src="../../Photos(ignore)/MonsterBack.jpg" alt="Logo" width="350">
+
+* **Monster Front**:
+  <img src="../../Photos(ignore)/MonsterFront.jpg" alt="Logo" width="350">
+
+
 ## FAQ ❓
 **Q: Why did you only move the label on the `Sorcerer Challenge` card and not on all the other cards to keep them consistent?**
 
@@ -56,10 +99,11 @@ A: I prefer the label to stay at that precise, consistent height across all card
 
 **Q: What settings should I use to print cards on the [Make Playing Cards](https://www.makeplayingcards.com/) website?**
 
-A: I’ll be placing the order soon, and these are the settings I’ll use:
+A: I've used the following settings:
 * Card Stock: M29 (from this [post](https://www.reddit.com/r/HereToSlay/comments/w7u6fc/does_anyone_know_what_type_of_cardstock_the_cards/)).
 * Print Type: Full Color Print.
 * Finish: MPC card finish (from this [post](https://www.reddit.com/r/mpcproxies/comments/rycpki/mpc_card_stock_options_a_review/)).
 * Other options up to your preference.
 
-As soon as I receive the physical cards, I'll update with my feedback.
+I suggest:
+* Instead of using M29, I think an M30 or M31 finish would provide a texture more similar to the original cards.
